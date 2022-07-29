@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido por um grupo de alunos de Data Science da Digital 
 
 
 ## Autores
-
+- [@andreiabac](https://github.com/andreiabac)
 - [@aleeexp](https://github.com/aleeexp)
 - [@guilherme-atomo](https://github.com/guilherme-atomo)
 - [@gentile95](https://github.com/gentile95)
