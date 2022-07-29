@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido por um grupo de alunos de Data Science da Digital 
 - [@gentile95](https://github.com/gentile95)
 
 
-## Documentação
+## Descrição
 
    1 - FEATURES DA BASE DE DADOS
         As colunas do banco de dados card_transdata são:
