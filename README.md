@@ -7,10 +7,11 @@ Esse projeto foi desenvolvido por um grupo de alunos de Data Science da Digital 
 
 
 ## Autores
-- [@andreiabac](https://github.com/andreiabac)
-- [@aleeexp](https://github.com/aleeexp)
-- [@guilherme-atomo](https://github.com/guilherme-atomo)
-- [@gentile95](https://github.com/gentile95)
+Andreia Bacic - [@andreiabac](https://github.com/andreiabac)
+Alex Pivato - [@aleeexp](https://github.com/aleeexp)
+Guilherme A. C. Butzke - [@guilherme-atomo](https://github.com/guilherme-atomo)
+João Victor Viana
+Lucas Gentile - [@gentile95](https://github.com/gentile95)
 
 
 ## Descrição
